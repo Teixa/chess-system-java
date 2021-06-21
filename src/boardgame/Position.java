@@ -13,9 +13,10 @@ public class Position {
 		this.column = column;
 	}
 	
+	/*
 	public void setValues( int row, int column) {
 		
-	}
+	}*/
 
 	public Integer getRow() {
 		return row;
