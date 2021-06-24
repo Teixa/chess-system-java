@@ -8,7 +8,6 @@ public class Position {
 	}
 	
 	public Position(Integer row, Integer column) {
-		super();
 		this.row = row;
 		this.column = column;
 	}
